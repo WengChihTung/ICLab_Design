@@ -1,3 +1,3 @@
-Lab07 - Clock Domain Crossing
+Lab07 - Design: Clock Domain Crossing
 
-RTL code file: CDC.v
+Design file: CDC.v
